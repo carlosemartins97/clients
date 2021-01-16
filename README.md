@@ -6,11 +6,11 @@ Este projeto está em desenvolvimento. Faça considerações apenas na parte do 
 
 O projeto focará em uma SinglePageApplication (SPA) afim de cadastrar um usuário com informações básicas para utilizar de algum serviço oferecido pelo fornecedor.
 
-Suas principais funcionalidades serão: 
--Cadastro de usuários no banco de dados; 
-Verificação de renda suficiente para realizar determinadas atividades;
-Validação de usuário;
-Administração de clientes pelo super usuário;
+### Suas principais funcionalidades serão: 
+#### Cadastro de usuários no banco de dados; 
+#### Verificação de renda suficiente para realizar determinadas atividades;
+#### Validação de usuário;
+#### Administração de clientes pelo super usuário;
 
 ## Layout mobile
 Incoming...
