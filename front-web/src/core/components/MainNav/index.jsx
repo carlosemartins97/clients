@@ -5,7 +5,7 @@ import './styles.css';
 const MainNav = () => {
     return (
         <div className="navbar-container">
-            <Navbar variant="dark" bg="primary" expand="lg" className="main-nav font-weight-bold">
+            <Navbar variant="light" bg="warning" expand="lg" className="main-nav font-weight-bold">
                 <Navbar.Brand href="/">Listz</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav nav-block">
